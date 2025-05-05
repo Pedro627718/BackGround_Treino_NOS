@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="699csrJH_0mwffTiU7W34Q" Reference="ZpgOagCRc0KA9gbsGf8IgA/nwrChi3kvEi-kin6ir1ybQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/home" CVScreenId="252bd45d-1b8c-44ff-b3a5-162a176cdb92" CvTextArea="1609, 246, 63, 20" CvTextArgument="Log Out" CvType="Text" DesignTimeRectangle="1591, 225, 100, 63" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Log Out' parentid='bs-example-navbar-collapse-1' tag='A' type='' class='' check:innerText='Log Out' /&gt;" Guid="1c95b122-32aa-44a1-901f-d15dbb1f3b86" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="252bd45d-1b8c-44ff-b3a5-162a176cdb92" CvTextArea="331, 522, 1055, 43" CvTextArgument="Welcome, da_videproject@outlook.pt to System 1." CvType="Text" DesignTimeRectangle="331, 522, 1075, 48" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='H1' class='' aaname='Welcome,  to System 1.' check:innerText='Welcome, da_videproject@outlook.pt to System 1.' /&gt;" Guid="d5be4484-ca22-4390-b8cb-ec301cb4d4ff" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="392d0858-ba60-4d9d-9779-855513fcb37b" CvTextArea="1325, 246, 48, 16" CvTextArgument="Home" CvType="Text" DesignTimeRectangle="1308, 225, 84, 63" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='bs-example-navbar-collapse-1' tag='A' type='' class='' aaname='Home' check:innerText='Home' /&gt;" Guid="3cc1b49a-4f0b-4142-9908-3ea3752c4c79" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="bb3a9593e55cabe5a9b4c8cf91ab2454.png" xmlns="">00hxHdkQH80-y8xHqcda05w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
