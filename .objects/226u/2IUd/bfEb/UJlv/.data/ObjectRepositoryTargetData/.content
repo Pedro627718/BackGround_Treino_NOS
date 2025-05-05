@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="226caypqwE2ykdCB5RE0AQ" Reference="ZpgOagCRc0KA9gbsGf8IgA/UJlvZgpqZEuAhVQQr4UupQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com" CVScreenId="d214c1c7-0a8d-49a6-8869-84a05377e61e" CvElementArea="332, 685, 256, 62" CvTextArea="416, 704, 116, 21" CvTextArgument="Work Items" CvType="Button" DesignTimeRectangle="334, 688, 250, 57" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='                          Work Items' parentid='dashmenu' tag='BUTTON' type='button' class='btn btn-default btn-lg' check:innerText='Work Items' /&gt;" Guid="a17cc44d-3ea5-4585-b5b1-f4ed028d9a49" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d214c1c7-0a8d-49a6-8869-84a05377e61e" CvTextArea="331, 522, 1055, 43" CvTextArgument="Welcome, da_videproject@outlook.pt to System 1." CvType="Text" DesignTimeRectangle="334, 519, 1250, 50" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='H1' class='' aaname='Welcome,  to System 1.' check:innerText='Welcome, da_videproject@outlook.pt to System 1.' /&gt;" Guid="c8797adf-9d34-4bd2-9608-43363a117793" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b53e774ffc10610bff04f5cb4f01d99f.png" xmlns="">0OQmU6IXh2EqbX_5paG5rvQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

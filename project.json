@@ -6,6 +6,7 @@
   "dependencies": {
     "UiPath.Credentials.Activities": "[2.1.0]",
     "UiPath.System.Activities": "[25.4.2]",
+    "UiPath.Testing.Activities": "[25.4.0]",
     "UiPath.UIAutomation.Activities": "[25.2.1-preview]"
   },
   "webServices": [],
@@ -41,7 +42,16 @@
     "processOptions": {
       "ignoredFiles": []
     },
-    "fileInfoCollection": [],
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "595e0398-8891-4c2f-a06b-9c61d9270c40",
+        "dataVariationFilePath": ".variations\\Dados_Teste_Folha1.json",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "CasodeTeste.xaml"
+      }
+    ],
     "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",

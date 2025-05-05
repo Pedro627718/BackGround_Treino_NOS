@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="_VwuRHtiPEWXb1gI40ftkQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="BUz9XtYoX0iisbIp5B6jUQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="54774ae8-c935-475d-bf31-69fe5e9a11b1" CvElementArea="332, 800, 78, 45" CvTextArea="349, 812, 45, 21" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="334, 802, 75, 42" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='btn btn-primary' aaname='                             Login                         ' check:innerText='Login' /&gt;" Guid="c072db78-b089-4189-bf50-d7575ae83733" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="146a657bec9d5841b9bfde14864fa45b.png" xmlns="">0N2EIvVB3_UC3_uqZLA3emA</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="a03de501-c382-4b21-ba35-f6fac9c0d7c1" CvElementArea="332, 800, 78, 45" CvTextArea="349, 812, 45, 21" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="334, 802, 75, 42" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='btn btn-primary' aaname='                             Login                         ' check:innerText='Login' /&gt;" Guid="fa138410-c2a0-465c-9b11-83451cb41fe9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a03de501-c382-4b21-ba35-f6fac9c0d7c1" CvTextArea="355, 754, 120, 17" CvTextArgument="Remember Me" CvType="Text" DesignTimeRectangle="356, 752, 119, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='form-check-label' tag='LABEL' type='' aaname='                                         Remember Me                                     ' check:innerText='Remember Me' /&gt;" Guid="e2084244-c88e-4ea4-b448-5e8751c21cb2" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="a03de501-c382-4b21-ba35-f6fac9c0d7c1" CvElementArea="411, 799, 218, 46" CvTextArea="429, 812, 185, 20" CvTextArgument="Forgot Your Password?" CvType="Button" DesignTimeRectangle="414, 802, 214, 42" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='                                 Forgot Your Password?                             ' tag='A' type='' class='btn bg-warning' check:innerText='Forgot Your Password?' /&gt;" Guid="dcf44804-3c83-421a-8484-0d7b296b8964" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="60e619914ba1c1d209c01c55ae1c0ec3.png" xmlns="">0RPYam5XVL0WgEsms-aPXZA</imageRef>
     </TargetAnchorable>
-    <x:String x:Key="ActivityType">Click</x:String>
+    <x:String x:Key="ActivityType">None</x:String>
   </ObjectRepositoryTargetData.Data>
 </ObjectRepositoryTargetData>
